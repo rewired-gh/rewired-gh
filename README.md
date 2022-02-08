@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ---
 
-![](http://the-tech.mit.edu/Projects/Macmade/macmade-wht.gif)
+[![Made with Macintosh](http://the-tech.mit.edu/Projects/Macmade/macmade-wht.gif)](https://www.apple.com/mac/)
