@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ya like JAZZ? 🎷
 
 <!--
 **h0gan1ee/h0gan1ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🦄 I'm a designer, a developer and a musician.
+- 🌟 I'm interested in everything that triggers me.
+- 🕸 Here's my website: [hopp.top](https://hopp.top).
+- 📫 How to reach me: hoganlee_dev@outlook.com
+
+---
+
+![](http://the-tech.mit.edu/Projects/Macmade/macmade-wht.gif)
