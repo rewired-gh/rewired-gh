@@ -19,7 +19,3 @@ Here are some ideas to get you started:
 - 🌟 I'm interested in everything that triggers me.
 - 🕸 Here's my website: [hopp.top](https://hopp.top)
 - 📫 How to reach me: hoganlee_dev@outlook.com
-
----
-
-[![Made with Macintosh](http://the-tech.mit.edu/Projects/Macmade/macmade-wht.gif)](https://www.apple.com/mac/)
