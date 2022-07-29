@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🦄 I'm a designer, a developer and a musician.
-- 🌟 I'm interested in everything that triggers me.
+- 🌟 I'm interested in anything that triggers me.
 - 🕸 Here's my website: [hopp.top](https://hopp.top)
 - 📫 How to reach me: hoganlee_dev@outlook.com
 
